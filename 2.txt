@@ -1,4 +1,5 @@
 I am 2.txt
+<<<<<<< HEAD
 Who are u?
 I don't know.
-
+......
